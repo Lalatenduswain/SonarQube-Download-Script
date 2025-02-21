@@ -17,7 +17,7 @@ The script:
 ## 📜 Usage
 Clone this repository or download the script directly:
 ```bash
-curl -sSL https://lalatendu.info/script/SonarQube.sh | bash
+curl -sSL https://raw.githubusercontent.com/Lalatenduswain/SonarQube-Download-Script/refs/heads/master/SonarQube.sh | bash
 ```
 Or, manually run it after downloading:
 ```bash
